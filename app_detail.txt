@@ -1,0 +1,35 @@
+App name:  TRAAJU
+Short description:
+This app allow user to calculate grocery item rate against weight and weight against rate.
+Long description:
+This app has two tabs:
+•	Weight
+Inside this user will get a simple screen with three text boxes names
+•	Kilo ka bhaav rupee me 
+•	Khareed ki rakam
+•	Result
+
+Kilo ka bhaav rupee me : in this text fields user need to fill product per kg price
+Khareed ki rakam : in this text filed user need to fill amount for how much he/she want to buy or sale.
+Result in Kilograms: in this text filed user will get the weight number that be according to amount and kg price.
+
+Eg; 
+Kilo ka bhaav rupee me: 40
+Khareed ki rakam : 20 
+Result : 500 grams
+
+•	Rate
+Inside this user will get a simple screen with three text boxes names
+•	Kilo ka bhaav rupee me 
+•	Saman ka vajan in Kilograms
+•	Result in rupees
+
+Kilo ka bhaav rupee me : in this text fields user need to fill product per kg price
+Saman ka vajan in Kilograms : in this text filed user need to fill product weight he/she want to buy or sale.
+Result in rupees : in this text filed user will get the amount price he/she need to pay or buy.
+
+Eg; 
+Kilo ka bhaav rupee me: 40
+Saman ka vajan in Kilograms: 500 grams 
+Result: 20 rupees
+
